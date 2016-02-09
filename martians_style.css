@@ -1,1 +1,5 @@
-#main_rectangle {position: absolute; background-color: red; text-align: center}
+body {background-color: black}
+#header {color: white; text-align: center; margin-top: 1%;}
+#main_rectangle {position: absolute; background-color: black;
+  text-align: center; width: 90%; height: 80%; left: 5%; top: 10%;
+  border-radius: 5px; border: 1pt solid #39FF14;}
